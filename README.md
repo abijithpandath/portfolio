@@ -12,4 +12,5 @@
 - Worked as a part of Customer Resource Management (CRM) team and spear headed data collection, data cleaing, data manipulation and data visualization to derive actionable insights 
 - Closely worked with Product Owner, Business Analyst and Development team to understand commercial market and user requirements
 - Implemented various Machine Learning Algorithms to find customer satisfactory attributes and customer churn attributes 
-
+- Condusted advanced  statistical analysis on large customer data sets to identify new product opportunities based on data, interpreting model outcomes and sharing insights to drive the direction
+-  Continuously learned both development tools and technologies used in the project as well as other development tools and technologies required for further development 
