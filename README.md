@@ -4,4 +4,12 @@
 
 ## Education					       		
 - M.S Data Science (_2023-2024_)| Coventry University
-- B Tech (_2016-2020_)|APJ Abdul Kalam Kerala Technological University  			     			        		
+- B Tech (_2016-2020_)|APJ Abdul Kalam Kerala Technological University
+
+
+
+
+## Work Experience
+**Tata Consultancy Services
+Assistant System Engineer Trainee (Jan 2022 – Jan 2023)**
+
