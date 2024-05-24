@@ -3,5 +3,5 @@
 #### Technical Skills: Python, SQL, R, Tableau
 
 ## Education					       		
-- M.S., Data Science	| Coventry University (_2023-2024_)	 			        		
-- BTech |APJ Abdul Kalam Kerala Technological University(_2016-2020_)
+- M.S Data Science (_2023-2024_)| Coventry University  			        		
+- BTech (_2016-2020_)|APJ Abdul Kalam Kerala Technological University
