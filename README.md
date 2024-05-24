@@ -10,6 +10,6 @@
 
 
 ## Work Experience
-**Tata Consultancy Services
-Assistant System Engineer Trainee (Jan 2022 – Jan 2023)**
+**Tata Consultancy Services**
+-**Assistant System Engineer Trainee (Jan 2022 – Jan 2023)**
 
