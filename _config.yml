@@ -1,4 +1,5 @@
 title: Abijith Pandath
 logo: assets/square.png
 # description below the image
+show download: false
 theme: jekyll-theme-minimal
