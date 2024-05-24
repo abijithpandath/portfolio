@@ -11,3 +11,5 @@ Master of Science in Data Science
 Bachelor of Technology in Computer Science and Engineering
 
 **GPA: 7.1 (Achieved)**
+
+**INDUSTRIAL EXPERIENCE **
