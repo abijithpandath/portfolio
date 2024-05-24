@@ -1,15 +1,7 @@
-**EDUCATION**
+# Data Scientist
 
-**Coventry University, United Kingdom, 2023 - 2024**
+#### Technical Skills: Python, SQL, R, Tableau
 
-Master of Science in Data Science
-
-**Grade: 2:1 Merit (Achieved)**
-
-**APJ Abdul Kalam Kerala Technological University, India, 2016 -2020**
-
- Bachelor of Technology in Computer Science and Engineering
-
- **GPA: 7.1 (Achieved)**
-
-**INDUSTRIAL EXPERIENCE **
+## Education					       		
+- M.S., Data Science	| Coventry University  (_2023-2024_)	 			        		
+- B Tech | APJ Abdul Kalam Kerala Technological University (2016-2020)
