@@ -8,8 +8,8 @@ Master of Science in Data Science
 
 **APJ Abdul Kalam Kerala Technological University, India, 2016 -2020**
 
-Bachelor of Technology in Computer Science and Engineering
+ Bachelor of Technology in Computer Science and Engineering
 
-**GPA: 7.1 (Achieved)**
+ **GPA: 7.1 (Achieved)**
 
 **INDUSTRIAL EXPERIENCE **
