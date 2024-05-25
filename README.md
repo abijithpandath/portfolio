@@ -6,7 +6,7 @@
 >- AWS Cloud Practitioner Essentials
 
 ## Education					       		
-- | M.S Data Science (_2023-2024_)|                                     ||Coventry University, United Kingdom|
+- | M.S Data Science (_2023-2024_)|                                     |||Coventry University, United Kingdom|
 - | B Tech Computer Science and Engineering (_2016-2020_)|            |APJ Abdul Kalam Kerala Technological University, India|
 
 ## Work Experience
