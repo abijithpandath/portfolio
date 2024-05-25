@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, Tableau
 
 ## Education					       		
-- | M.S Data Science (_2023-2024_)| |Coventry University, United Kingdom|
-- | B Tech (_2016-2020_)| |APJ Abdul Kalam Kerala Technological University, India|
+- | M.S Data Science (_2023-2024_)|                                   |Coventry University, United Kingdom|
+- | B Tech Computer Science and Engineering (_2016-2020_)|            |APJ Abdul Kalam Kerala Technological University, India|
 
 ## Work Experience
 **Tata Consultancy Services**
@@ -15,7 +15,7 @@
 - Condusted advanced  statistical analysis on large customer data sets to identify new product opportunities based on data, interpreting model outcomes and sharing insights to drive the direction
 -  Continuously learned both development tools and technologies used in the project as well as other development tools and technologies required for future development
 
-**Tech Mahindra Pvt Ltd**
+**Tech Mahindra Pvt Ltd**  
 >**Associate Tecgnical Support (Jan 2021 - Dec 2021)**
 - Provided comprehensive technical support to clients, resolving software and hardware issues promptly and seamlessly via phone, email and Chat Support
 - Functioned as a trusted advisor to clients, offering guidance on best practices for system maintenance, software updates, and security protocols to optimize performance and minimize vulnerabilities.
