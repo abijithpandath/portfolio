@@ -37,7 +37,7 @@
 
 ## PROJECTS
 ># Getting Around Python
-> ### 1. Beetle Game using control structures in python
+> ### [1. Beetle Game using control structures in python](https://github.com/abijithabi3416/Projects.git)
 The Beetle game using control structures in python is developed to demonstrate the basic understanding of python programming language.
 This python code includes basics of python programming and implementation of control structures to understand the work flow of code base.
 The Beetle Game is a simple dice game where the player collects parts of a beetle by rolling a die. The game ends when the player has collected all the necessary parts to complete the beetle.
@@ -49,4 +49,4 @@ The Beetle Game is a simple dice game where the player collects parts of a beetl
 -  Simulates rolling a die, generating a random number between 1 and 6.
 -  Checks if the roll is 1 and if the body part has not been collected yet. If true, adds the body part.
 -  Calls the dice_game function to start the game.
-[Beetle Game](Python Scripts.ipynb) 
+ 
