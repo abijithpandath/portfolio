@@ -37,4 +37,4 @@
 
 ## PROJECTS
 ># Getting Around Python
-> ### Beetle Game using control structures in python
+> ### 1. Beetle Game using control structures in python
