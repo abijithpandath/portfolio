@@ -2,8 +2,8 @@
 
 #### Technical Skills: Python, SQL, R, Tableau
 #### Certifications
->- CMI Level 7 Certificate in Strategic Management and Leadership Practice
->- AWS Cloud Practitioner Essentials
+>- Chartered Management Institute - CMI Level 7 Certificate in Strategic Management and Leadership Practice
+>- Amazon Web Services Training and Certifications - AWS Cloud Practitioner Essentials
 
 ## Education					       		
 - | M.S Data Science (_2023-2024_)|                                     |||Coventry University, United Kingdom|
