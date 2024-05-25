@@ -49,4 +49,4 @@ The Beetle Game is a simple dice game where the player collects parts of a beetl
 -  Simulates rolling a die, generating a random number between 1 and 6.
 -  Checks if the roll is 1 and if the body part has not been collected yet. If true, adds the body part.
 -  Calls the dice_game function to start the game.
-
+[Beetle Game](Python Scripts.ipynb) 
