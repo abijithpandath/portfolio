@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, Tableau
 
 ## Education					       		
-- M.S Data Science (_2023-2024_)| Coventry University, United Kingdom
-- B Tech (_2016-2020_)|APJ Abdul Kalam Kerala Technological University, India
+- | M.S Data Science (_2023-2024_)| |Coventry University, United Kingdom|
+- | B Tech (_2016-2020_)| |APJ Abdul Kalam Kerala Technological University, India|
 
 ## Work Experience
 **Tata Consultancy Services**
