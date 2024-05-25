@@ -19,7 +19,7 @@
 -  Continuously learned both development tools and technologies used in the project as well as other development tools and technologies required for future development
 
 **Tech Mahindra Pvt Ltd**  
->**Associate Tecgnical Support (Jan 2021 - Dec 2021)**
+>**Associate Technical Support (Jan 2021 - Dec 2021)**
 - Provided comprehensive technical support to clients, resolving software and hardware issues promptly and seamlessly via phone, email and Chat Support
 - Functioned as a trusted advisor to clients, offering guidance on best practices for system maintenance, software updates, and security protocols to optimize performance and minimize vulnerabilities.
 - Maintained detailed documentation of support interactions, including issue descriptions, troubleshooting steps, and resolutions, to facilitate knowledge sharing and improved customer retention rate up to 30%.
