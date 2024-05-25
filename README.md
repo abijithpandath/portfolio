@@ -41,6 +41,7 @@
 The Beetle game using control structures in python is developed to demonstrate the basic understanding of python programming language.
 This python code includes basics of python programming and implementation of control structures to understand the work flow of code base.
 The Beetle Game is a simple dice game where the player collects parts of a beetle by rolling a die. The game ends when the player has collected all the necessary parts to complete the beetle.
+> 
 -  The random module is imported to use the randint function for simulating dice rolls.
 -  The dice_game function encapsulates the game logic.
 -  collected_parts is a list to keep track of the collected beetle parts.
