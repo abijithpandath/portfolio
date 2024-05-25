@@ -26,14 +26,15 @@
 
 ## ADDITIONAL EXPERIENCE
 >**JPMorgan Chase & Co Agile Job Simulation on Forage**
--Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required. 
--Ran the Scrum team’s daily standup to masterfully plan the day and energize the team members. 
--Conducted a sprint review to collect feedback on the Scrum’s work and a sprint retrospective to align on opportunities for improvement in future sprints.
+- Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required. 
+- Ran the Scrum team’s daily standup to masterfully plan the day and energize the team members. 
+- Conducted a sprint review to collect feedback on the Scrum’s work and a sprint retrospective to align on opportunities for improvement in future sprints.
  
 >**British Airways Data Science Job Simulation on Forage**
--Completed a simulation focussing on how data science is a critical component of British Airways success. 
--Scraped and analysed customer review data to uncover findings. 
--Built a predictive model to understand factors that influence buying behaviour.
+- Completed a simulation focussing on how data science is a critical component of British Airways success. 
+- Scraped and analysed customer review data to uncover findings. 
+- Built a predictive model to understand factors that influence buying behaviour.
 
 ## PROJECTS
-># Getting around Python
+># Getting Around Python
+> Beetle Game using control structures in python
