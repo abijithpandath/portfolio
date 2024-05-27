@@ -36,7 +36,7 @@
 - Built a predictive model to understand factors that influence buying behaviour.
 
 ## PROJECTS
->###1.Road Traffic Accident Analysis
+> ###1.Road Traffic Accident Analysis
 This study analyses and predicts road traffic accidents using a data-driven approach and machine learning models, with the goal of improving our understanding of contributing factors and developing predictive tools for accident prevention.  Assembled a large historic dataset that included information such as weather conditions, road types, traffic volume, and historical accident records.
 >
 To analyse this dataset and extract meaningful patterns, this study has used 6 different machine learning algorithms including decision trees, random forests, and support vector machines. The investigation reveals complex links between various factors and the occurrence of accidents. Machine learning models predict accidents with high accuracy based on historic data inputs, demonstrating their potential for proactive intervention and traffic management. This study demonstrates the effectiveness of a data-driven approach in road traffic accident analysis and prediction. We can develop systems capable of providing timely warnings and informing traffic management strategies to reduce the frequency and severity of accidents by leveraging the power of machine learning models. The findings advance the field of transportation safety and lay the groundwork for the development of intelligent accident prevention systems. 
