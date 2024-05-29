@@ -50,7 +50,7 @@ This analysis includes the following sessions;
 4.  Model Evaluation
 5.  Prediction
 
-> ### [2. Beetle Game using control structures in python]([Beetle Game](https://github.com/abijithabi3416/Projects/tree/0e4da1e10403accd8219d3a81b04fc25cee53737)
+> ### [2. Beetle Game using control structures in python]([Beetle Game](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
 The Beetle game using control structures in python is developed to demonstrate the basic understanding of python programming language.
 This python code includes basics of python programming and implementation of control structures to understand the work flow of code base.
 The Beetle Game is a simple dice game where the player collects parts of a beetle by rolling a die. The game ends when the player has collected all the necessary parts to complete the beetle.
