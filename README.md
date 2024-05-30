@@ -1,5 +1,5 @@
 # Data Scientist
-**[abijithabi3416@gmail.com](abijithabi3416@gmail.com)** | 
+**[abijithabi3416@gmail.com](mailto:abijithabi3416@gmail.com)** | 
 **[LinkedIn](www.linkedin.com/in/abijithpandath)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
 
