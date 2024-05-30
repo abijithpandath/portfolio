@@ -1,6 +1,6 @@
 # Data Scientist
 **[abijithabi3416@gmail.com](mailto:abijithabi3416@gmail.com)** | 
-**[LinkedIn](www.linkedin.com/in/abijithpandath)** |
+**[LinkedIn](www.linkedin.com/in/abijith-pandath-3b0a7619b)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
 
 #### Technical Skills
