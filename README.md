@@ -3,7 +3,8 @@
 **[LinkedIn](www.linkedin.com/in/abijithpandath)**
 
 #### Technical Skills:
->- Python, SQL, R, Tableau, Excel, AWS
+Python, SQL, R, Tableau, Excel, AWS
+>- 
 #### Certifications
 >- **Chartered Management Institute** - CMI Level 7 Certificate in Strategic Management and Leadership Practice
 
