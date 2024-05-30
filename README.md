@@ -50,6 +50,8 @@ The  analyses  predicts road traffic accidents using a data-driven approach and 
 To analyse this dataset and extract meaningful patterns, I've used 6 different machine learning algorithms including decision trees, random forests, and support vector machines. The investigation reveals complex links between various factors and the occurrence of accidents. Machine learning models predict accidents with high accuracy based on historic data inputs, demonstrating their potential for proactive intervention and traffic management.
 >
 To demonstrates the effectiveness of a data-driven approach in road traffic accident analysis and prediction, We can develop systems capable of providing timely warnings and informing traffic management strategies to reduce the frequency and severity of accidents by leveraging the power of machine learning models. The findings advance the field of transportation safety and lay the groundwork for the development of intelligent accident prevention systems. 
+
+This analysis was completed as a part of Final Data Science Project during my Master's Degree at Coventry University(2023-2024) under the guidence of faculties and Module Leader
 >
 This analysis includes the following sessions;
 1.  Data Collection
@@ -65,7 +67,16 @@ The  system crawls the relevant web pages and retrieves information about all av
 >
 From the user’s point of view, the system has an interface, where the user can type in their queries/keywords about the resources they want to find. Then,  system will display the results, sorted by relevance, in a similar way Google Scholar does, the search results are restricted to the publications by CGL members only. 
 
-> ### [3. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
+> ### 3.Machine Learning Approaches to Customer Churn Prediction
+Implemented a predictive model to  calculate the number of customers who churn based on various customer characteristics and usage trends. 
+To analyze the dataset and create an accurate churn prediction model, used machine learning techniques such as Random Forest Regression, Decision Tree Regression and Gradient Boost Regression.  Started  exploratory data analysis to gather insights into the dataset's properties, then we apply various data preprocessing techniques such as handling duplicate entries. Handling missing values, renaming columns, outlier detection and treatment and dropping irrelevant columns. Prediction findings and algorithm performance measurements were gathered and visualized for comparison and debate using the Python programming language and machine learning resources.
+
+Dataset was collected from UCI Machine Learning Repository and this data set consist of randomly collected details of customers from an Iranian Telecom company over 
+a period of 12 months. The dataset contains a variety of consumer information, such as call failure rates, customer complaints, subscription durations, charge amounts, use patterns (such as the number of seconds used, frequency of use, and frequency of SMS), and demographic parameters such as age and tariff plans. The information also includes a 
+churn indicator, which indicates whether a client has churned. Each attribute in the data set is about the telecom servicerelated data describing the frequency, duration,count, and tariff related information. 
+
+This analysis was completed as a part of Machine Learning Assignment during my Master's Degree at Coventry University(2023-2024)
+> ### [4. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
 The Beetle game using control structures in python is developed to demonstrate the basic understanding of python programming language.
 This python code includes basics of python programming and implementation of control structures to understand the work flow of code base.
 The Beetle Game is a simple dice game where the player collects parts of a beetle by rolling a die. The game ends when the player has collected all the necessary parts to complete the beetle.
