@@ -70,7 +70,7 @@ From the user’s point of view, the system has an interface, where the user can
 > ### 3.Machine Learning Approaches to Customer Churn Prediction
 Implemented a predictive model to  calculate the number of customers who churn based on various customer characteristics and usage trends. 
 To analyze the dataset and create an accurate churn prediction model, used machine learning techniques such as Random Forest Regression, Decision Tree Regression and Gradient Boost Regression.  Started  exploratory data analysis to gather insights into the dataset's properties, then we apply various data preprocessing techniques such as handling duplicate entries. Handling missing values, renaming columns, outlier detection and treatment and dropping irrelevant columns. Prediction findings and algorithm performance measurements were gathered and visualized for comparison and debate using the Python programming language and machine learning resources.
-
+>
 Dataset was collected from UCI Machine Learning Repository and this data set consist of randomly collected details of customers from an Iranian Telecom company over 
 a period of 12 months. The dataset contains a variety of consumer information, such as call failure rates, customer complaints, subscription durations, charge amounts, use patterns (such as the number of seconds used, frequency of use, and frequency of SMS), and demographic parameters such as age and tariff plans. The information also includes a 
 churn indicator, which indicates whether a client has churned. Each attribute in the data set is about the telecom servicerelated data describing the frequency, duration,count, and tariff related information. 
