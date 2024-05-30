@@ -1,6 +1,6 @@
 # Data Scientist
-Email: [abijithabi3416@gmail.com](abijithabi3416@gmail.com)
-> [LinkedIn](www.linkedin.com/in/abijithpandath)
+**[abijithabi3416@gmail.com](abijithabi3416@gmail.com)** | | 
+[LinkedIn](www.linkedin.com/in/abijithpandath)
 
 #### Technical Skills: Python, SQL, R, Tableau, AWS
 #### Certifications
