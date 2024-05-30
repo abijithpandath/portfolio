@@ -1,5 +1,7 @@
 title: Abijith Pandath
 logo: assets/Headshot1.png
 # description below the image
-show downloads: false
+show downloads: true
+email: abijithabi3416@gmail.com
+linkedin: www.linkedin.com/in/abijithpandath
 theme: jekyll-theme-minimal
