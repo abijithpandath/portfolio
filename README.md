@@ -45,14 +45,14 @@ The  analyses  predicts road traffic accidents using a data-driven approach and 
 To analyse this dataset and extract meaningful patterns, I've used 6 different machine learning algorithms including decision trees, random forests, and support vector machines. The investigation reveals complex links between various factors and the occurrence of accidents. Machine learning models predict accidents with high accuracy based on historic data inputs, demonstrating their potential for proactive intervention and traffic management.
 >
 To demonstrates the effectiveness of a data-driven approach in road traffic accident analysis and prediction, We can develop systems capable of providing timely warnings and informing traffic management strategies to reduce the frequency and severity of accidents by leveraging the power of machine learning models. The findings advance the field of transportation safety and lay the groundwork for the development of intelligent accident prevention systems. 
-
+>
 This analysis includes the following sessions;
 1.  Data Collection
 2.  Data Preprocessing
 3.  Model Training
 4.  Model Evaluation
 5.  Prediction
-
+>
 > ### [2.Vertical Search Engine](https://github.com/abijithabi3416/Projects/tree/main/Vertical%20Search%20Engine)
 Developed a vertical search engine similar to Google Scholar, but specialised to retrieve publications (i.e., papers, books, etc.) published by a member of the Centre for Global Learning (CGL) at Coventry University.
 >
