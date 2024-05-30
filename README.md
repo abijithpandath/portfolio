@@ -50,7 +50,14 @@ This analysis includes the following sessions;
 4.  Model Evaluation
 5.  Prediction
 
-> ### [2. Beetle Game using control structures in python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
+> ### 2.Vertical Search Engine
+Developed a vertical search engine similar to Google Scholar, but specialised to retrieve publications (i.e., papers, books, etc.) published by a member of the Centre for Global Learning (CGL) at Coventry University.
+
+The  system crawls the relevant web pages and retrieves information about all available publications. For each publication, it extracts available data (such as authors, publication year, and title) and the links to both the publication page and the author’s profile (also called “pureportal” profile) page. 
+
+From the user’s point of view, the system has an interface, where the user can type in their queries/keywords about the resources they want to find. Then,  system will display the results, sorted by relevance, in a similar way Google Scholar does, the search results are restricted to the publications by CGL members only. 
+
+> ### [3. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
 The Beetle game using control structures in python is developed to demonstrate the basic understanding of python programming language.
 This python code includes basics of python programming and implementation of control structures to understand the work flow of code base.
 The Beetle Game is a simple dice game where the player collects parts of a beetle by rolling a die. The game ends when the player has collected all the necessary parts to complete the beetle.
