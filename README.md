@@ -1,9 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Tableau
+#### Technical Skills: Python, SQL, R, Tableau, AWS
 #### Certifications
 >- Chartered Management Institute - CMI Level 7 Certificate in Strategic Management and Leadership Practice
 >- Amazon Web Services Training and Certifications - AWS Cloud Practitioner Essentials
+>- Cisco Networking Academy -  Data Analytics Essentials 
 
 ## EDUCATION					       		
 - | M.S Data Science (_2023-2024_)|                                     |||Coventry University, United Kingdom|
