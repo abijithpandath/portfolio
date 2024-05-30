@@ -67,7 +67,7 @@ The  system crawls the relevant web pages and retrieves information about all av
 >
 From the user’s point of view, the system has an interface, where the user can type in their queries/keywords about the resources they want to find. Then,  system will display the results, sorted by relevance, in a similar way Google Scholar does, the search results are restricted to the publications by CGL members only. 
 
-> ### 3.Machine Learning Approaches to Customer Churn Prediction
+> ### [3.Machine Learning Approaches to Customer Churn Prediction](https://github.com/abijithabi3416/Projects/tree/efa68e5bb27ba2d559c8483b29b4d57243b24257/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
 Implemented a predictive model to  calculate the number of customers who churn based on various customer characteristics and usage trends. 
 To analyze the dataset and create an accurate churn prediction model, used machine learning techniques such as Random Forest Regression, Decision Tree Regression and Gradient Boost Regression.  Started  exploratory data analysis to gather insights into the dataset's properties, then we apply various data preprocessing techniques such as handling duplicate entries. Handling missing values, renaming columns, outlier detection and treatment and dropping irrelevant columns. Prediction findings and algorithm performance measurements were gathered and visualized for comparison and debate using the Python programming language and machine learning resources.
 >
