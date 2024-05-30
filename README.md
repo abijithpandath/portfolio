@@ -52,7 +52,7 @@ This analysis includes the following sessions;
 3.  Model Training
 4.  Model Evaluation
 5.  Prediction
->
+
 > ### [2.Vertical Search Engine](https://github.com/abijithabi3416/Projects/tree/main/Vertical%20Search%20Engine)
 Developed a vertical search engine similar to Google Scholar, but specialised to retrieve publications (i.e., papers, books, etc.) published by a member of the Centre for Global Learning (CGL) at Coventry University.
 >
