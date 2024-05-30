@@ -74,7 +74,7 @@ To analyze the dataset and create an accurate churn prediction model, used machi
 Dataset was collected from UCI Machine Learning Repository and this data set consist of randomly collected details of customers from an Iranian Telecom company over 
 a period of 12 months. The dataset contains a variety of consumer information, such as call failure rates, customer complaints, subscription durations, charge amounts, use patterns (such as the number of seconds used, frequency of use, and frequency of SMS), and demographic parameters such as age and tariff plans. The information also includes a 
 churn indicator, which indicates whether a client has churned. Each attribute in the data set is about the telecom servicerelated data describing the frequency, duration,count, and tariff related information. 
-
+>
 This analysis was completed as a part of Machine Learning Assignment during my Master's Degree at Coventry University(2023-2024)
 > ### [4. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
 The Beetle game using control structures in python is developed to demonstrate the basic understanding of python programming language.
