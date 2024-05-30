@@ -51,6 +51,7 @@ This analysis includes the following sessions;
 5.  Prediction
 
 > ### 2.Vertical Search Engine
+
 Developed a vertical search engine similar to Google Scholar, but specialised to retrieve publications (i.e., papers, books, etc.) published by a member of the Centre for Global Learning (CGL) at Coventry University.
 
 The  system crawls the relevant web pages and retrieves information about all available publications. For each publication, it extracts available data (such as authors, publication year, and title) and the links to both the publication page and the author’s profile (also called “pureportal” profile) page. 
