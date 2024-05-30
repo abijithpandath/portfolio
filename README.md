@@ -50,7 +50,7 @@ The  analyses  predicts road traffic accidents using a data-driven approach and 
 To analyse this dataset and extract meaningful patterns, I've used 6 different machine learning algorithms including decision trees, random forests, and support vector machines. The investigation reveals complex links between various factors and the occurrence of accidents. Machine learning models predict accidents with high accuracy based on historic data inputs, demonstrating their potential for proactive intervention and traffic management.
 >
 To demonstrates the effectiveness of a data-driven approach in road traffic accident analysis and prediction, We can develop systems capable of providing timely warnings and informing traffic management strategies to reduce the frequency and severity of accidents by leveraging the power of machine learning models. The findings advance the field of transportation safety and lay the groundwork for the development of intelligent accident prevention systems. 
-
+>
 This analysis was completed as a part of Final Data Science Project during my Master's Degree at Coventry University(2023-2024) under the guidence of faculties and Module Leader
 >
 This analysis includes the following sessions;
