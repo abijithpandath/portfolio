@@ -1,6 +1,7 @@
 # Data Scientist
 **[abijithabi3416@gmail.com](abijithabi3416@gmail.com)** | 
-**[LinkedIn](www.linkedin.com/in/abijithpandath)**
+**[LinkedIn](www.linkedin.com/in/abijithpandath)** |
+**+44 7342663982**
 
 #### Technical Skills
 Python, SQL, R, Tableau, Excel, AWS
