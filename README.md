@@ -31,6 +31,7 @@ Python, SQL, R, Tableau, Excel, AWS
 - Delivered exceptional technical support to clients, resolving 45% of software and hardware issues within the first contact, exceeding client expectations. Utilized a multi-channel approach (phone, email, chat) to ensure 100% customer satisfaction
 - Acted as a trusted advisor, proactively educating clients on best practices for system maintenance, software updates, and security protocols. This resulted in a 30% reduction in support tickets related to preventable issues.
 - Established a comprehensive knowledge base by documenting support interactions, including issue descriptions, troubleshooting steps, and resolutions. This facilitated knowledge sharing within the team, leading to improved first-call resolution rates and contributing up to a 50% customer retention rate.
+
 ## ADDITIONAL EXPERIENCE
 >**JPMorgan Chase & Co Agile Job Simulation on Forage**
 - Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required. 
