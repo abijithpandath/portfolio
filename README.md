@@ -7,11 +7,11 @@
 Python, SQL, R, Tableau, Excel, AWS
  
 #### Certifications
+>- **Cisco Networking Academy** -  Data Analytics Essentials 
+
 >- **Chartered Management Institute** - CMI Level 7 Certificate in Strategic Management and Leadership Practice
 
 >- **Amazon Web Services Training and Certifications** - AWS Cloud Practitioner Essentials
-
->- **Cisco Networking Academy** -  Data Analytics Essentials 
 
 ## EDUCATION					       		
 - | M.S Data Science (_2023-2024_)|                                     |||Coventry University, United Kingdom|
