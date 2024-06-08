@@ -53,18 +53,17 @@ Python, SQL, R, Tableau, Excel, AWS
 
   - Objectives:
 
-    Analyze historical traffic accident data to identify key factors.
-      
+    Analyze historical traffic accident data to identify key factors.<br>
     Develop machine learning models to predict accidents.<br> 
-    Improve traffic management and safety through predictive insights.  
+    Improve traffic management and safety through predictive insights.<br> 
   
   - Methods Used:
 
-    Data Collection: Assembled a large historical dataset including variables such as weather conditions, road types, traffic volume, and accident records.
-    Data Preprocessing: Cleaned and prepared the data for analysis, addressing issues such as missing values and data normalization.
-    Model Training: Employed six different machine learning algorithms, including Decision Trees, Random Forests, and Support Vector Machines.
-    Model Evaluation: Assessed the performance of each model using accuracy metrics and other evaluation criteria.
-    Prediction: Used the trained models to predict accidents based on historical data inputs.
+    Data Collection: Assembled a large historical dataset including variables such as weather conditions, road types, traffic volume, and accident records.<br>
+    Data Preprocessing: Cleaned and prepared the data for analysis, addressing issues such as missing values and data normalization.<br>
+    Model Training: Employed six different machine learning algorithms, including Decision Trees, Random Forests, and Support Vector Machines.<br>
+    Model Evaluation: Assessed the performance of each model using accuracy metrics and other evaluation criteria.<br>
+    Prediction: Used the trained models to predict accidents based on historical data inputs.<br>
 
   - Outcome:
 
@@ -74,60 +73,74 @@ Python, SQL, R, Tableau, Excel, AWS
   - Project Context:
 
   Completed as part of the Final Data Science Project during my Master’s Degree at Coventry University (2023-2024), under the guidance of faculty and the Module Leader.
---- 
+
 > ### [2.Vertical Search Engine](https://github.com/abijithabi3416/Projects/tree/main/Vertical%20Search%20Engine)
-Summary:
+- Summary:
+
 The Vertical Search Engine project developed a specialized search engine similar to Google Scholar, designed to retrieve publications by members of the Centre for Global Learning (CGL) at Coventry University.
 
-Objectives:
+- Objectives:
 
-Create a search engine focused on CGL publications.
-Provide a user-friendly interface for querying and retrieving publication data.
-Ensure accurate and relevant search results specific to CGL members.
-Methods Used:
+Create a search engine focused on CGL publications.<br>
+Provide a user-friendly interface for querying and retrieving publication data.<br>
+Ensure accurate and relevant search results specific to CGL members.<br>
 
-Web Crawling: Developed a crawler to collect data from relevant web pages, including publication details and author profiles.
-Data Extraction: Extracted metadata such as authors, publication year, title, and links to publication and author profile pages.
-Search Interface: Implemented a user interface where users can input queries/keywords to find relevant publications.
-Relevance Sorting: Displayed search results sorted by relevance, mimicking the functionality of Google Scholar but restricted to CGL publications.
-Outcome:
+- Methods Used:
+
+Web Crawling: Developed a crawler to collect data from relevant web pages, including publication details and author profiles.<br>
+Data Extraction: Extracted metadata such as authors, publication year, title, and links to publication and author profile pages.<br>
+Search Interface: Implemented a user interface where users can input queries/keywords to find relevant publications.<br>
+Relevance Sorting: Displayed search results sorted by relevance, mimicking the functionality of Google Scholar but restricted to CGL publications.<br>
+
+- Outcome:
+- 
 The system successfully retrieves and displays publications authored by CGL members, providing a tailored search experience. This specialized search engine enhances accessibility to CGL research outputs and supports academic and research activities within the Centre 
 
 > ### [3.Machine Learning Approaches to Customer Churn Prediction](https://github.com/abijithabi3416/Projects/tree/efa68e5bb27ba2d559c8483b29b4d57243b24257/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
-Summary:
+- Summary:
+
 The Customer Churn Prediction project focused on implementing a predictive model to identify customers likely to churn based on various characteristics and usage patterns.
 
-Objectives:
+- Objectives:
 
-Predict customer churn to aid in retention strategies.
-Analyze customer data to identify key indicators of churn.
-Develop and compare different machine learning models for accuracy.
-Methods Used:
+Predict customer churn to aid in retention strategies.<br>
+Analyze customer data to identify key indicators of churn.<br>
+Develop and compare different machine learning models for accuracy.<br>
 
-Exploratory Data Analysis (EDA): Conducted EDA to understand the dataset’s properties and uncover patterns.
-Data Preprocessing: Handled duplicate entries, missing values, renamed columns, detected and treated outliers, and dropped irrelevant columns.
-Model Training: Applied machine learning techniques such as Random Forest Regression, Decision Tree Regression, and Gradient Boost Regression.
-Model Evaluation: Gathered and visualized prediction findings and performance measurements using Python and machine learning libraries.
-Outcome:
+- Methods Used:
+
+Exploratory Data Analysis (EDA): Conducted EDA to understand the dataset’s properties and uncover patterns.<br>
+Data Preprocessing: Handled duplicate entries, missing values, renamed columns, detected and treated outliers, and dropped irrelevant columns.<br>
+Model Training: Applied machine learning techniques such as Random Forest Regression, Decision Tree Regression, and Gradient Boost Regression.<br>
+Model Evaluation: Gathered and visualized prediction findings and performance measurements using Python and machine learning libraries.<br>
+
+- Outcome:
+- 
 The project demonstrated effective churn prediction, with models showing strong performance in identifying customers at risk of leaving. The analysis provided actionable insights for the telecom company to improve customer retention strategies.
 
-Project Context:
+- Project Context:
+
 Completed as part of a Machine Learning Assignment during my Master’s Degree at Coventry University (2023-2024).
+
 > ### [4. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
-Summary:
+
+- Summary:
 The Beetle Game project was developed to demonstrate a basic understanding of Python programming and control structures.
 
-Objectives:
+- Objectives:
 
-Illustrate fundamental Python programming concepts.
-Implement control structures to manage game logic.
-Create an engaging, interactive game using Python.
-Methods Used:
+Illustrate fundamental Python programming concepts.<br>
+Implement control structures to manage game logic.<br>
+Create an engaging, interactive game using Python.<br>
 
-Random Module: Used the randint function from the random module to simulate dice rolls.
-Game Logic: Encapsulated game logic within the dice_game function, managing the collection of beetle parts.
-Control Structures: Utilized loops and conditionals to control game flow, ensuring parts are collected based on dice rolls.
-User Interaction: Implemented a simple user interface to start and play the game.
-Outcome:
+- Methods Used:
+
+Random Module: Used the randint function from the random module to simulate dice rolls.<br>
+Game Logic: Encapsulated game logic within the dice_game function, managing the collection of beetle parts.<br>
+Control Structures: Utilized loops and conditionals to control game flow, ensuring parts are collected based on dice rolls.<br>
+User Interaction: Implemented a simple user interface to start and play the game.<br>
+
+- Outcome:
+- 
 The Beetle Game successfully demonstrated the use of control structures in Python, providing a fun and interactive way to apply basic programming concepts. The game ends when the player collects all the necessary beetle parts, showcasing practical application of loops and conditionals.
  
