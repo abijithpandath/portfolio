@@ -46,16 +46,18 @@ Python, SQL, R, Tableau, Excel, AWS
 ## PROJECTS
 > ### [1.Road Traffic Accident Analysis](https://github.com/abijithabi3416/Projects/tree/main/Road%20Traffic%20Accident)
 
-  - Summary:
-    The Road Traffic Accident Analysis project aims to predict road traffic accidents through a data-driven approach utilizing machine learning models. The primary objectives are to understand the contributing factors to traffic accidents and to develop predictive 
-    tools for accident prevention.
+  - Summary:  
+    
+     The Road Traffic Accident Analysis project aims to predict road traffic accidents through a data-driven approach utilizing machine learning models. The primary objectives are to understand the contributing factors to traffic accidents and to develop predictive 
+     tools for accident prevention.
 
   - Objectives:
 
     Analyze historical traffic accident data to identify key factors.
-    Develop machine learning models to predict accidents.
-    Improve traffic management and safety through predictive insights.
-
+      
+    Develop machine learning models to predict accidents.<br> 
+    Improve traffic management and safety through predictive insights.  
+  
   - Methods Used:
 
     Data Collection: Assembled a large historical dataset including variables such as weather conditions, road types, traffic volume, and accident records.
