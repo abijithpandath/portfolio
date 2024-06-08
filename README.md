@@ -49,51 +49,49 @@ Python, SQL, R, Tableau, Excel, AWS
 
 Summary:  
     
-     The Road Traffic Accident Analysis project aims to predict road traffic accidents through a data-driven approach utilizing machine learning models. The primary objectives are to understand the contributing factors to traffic accidents and to develop predictive 
-     tools for accident prevention.
+   The Road Traffic Accident Analysis project aims to predict road traffic accidents through a data-driven approach utilizing machine learning models. The primary objectives are to understand the contributing factors to traffic accidents and to develop predictive 
+   tools for accident prevention.
 
 Objectives:
 
-    Analyze historical traffic accident data to identify key factors.<br>
-    Develop machine learning models to predict accidents.<br> 
-    Improve traffic management and safety through predictive insights.<br> 
+   Analyze historical traffic accident data to identify key factors.<br>
+   Develop machine learning models to predict accidents.<br> 
+   Improve traffic management and safety through predictive insights.<br> 
   
 Methods Used:
 
-    Data Collection: Assembled a large historical dataset including variables such as weather conditions, road types, traffic volume, and accident records.<br>
+   Data Collection: Assembled a large historical dataset including variables such as weather conditions, road types, traffic volume, and accident records.<br>
     
-    Data Preprocessing: Cleaned and prepared the data for analysis, addressing issues such as missing values and data normalization.<br>
+   Data Preprocessing: Cleaned and prepared the data for analysis, addressing issues such as missing values and data normalization.<br>
     
-    Model Training: Employed six different machine learning algorithms, including Decision Trees, Random Forests, and Support Vector Machines.<br>
+   Model Training: Employed six different machine learning algorithms, including Decision Trees, Random Forests, and Support Vector Machines.<br>
     
-    Model Evaluation: Assessed the performance of each model using accuracy metrics and other evaluation criteria.<br>
+   Model Evaluation: Assessed the performance of each model using accuracy metrics and other evaluation criteria.<br>
     
-    Prediction: Used the trained models to predict accidents based on historical data inputs.<br>
+   Prediction: Used the trained models to predict accidents based on historical data inputs.<br>
     
  Outcome:
 
-    The analysis revealed complex relationships between various factors and the occurrence of accidents. The machine learning models achieved high accuracy in predicting accidents, demonstrating their potential for proactive traffic management and accident prevention. 
-    This project highlights the effectiveness of a data-driven approach in enhancing transportation safety and provides a foundation for developing intelligent accident prevention systems.
+   The analysis revealed complex relationships between various factors and the occurrence of accidents. The machine learning models achieved high accuracy in predicting accidents, demonstrating their potential for proactive traffic management and accident prevention. 
+   This project highlights the effectiveness of a data-driven approach in enhancing transportation safety and provides a foundation for developing intelligent accident prevention systems.
 
 Project Context:
 
-    Completed as part of the Final Data Science Project during my Master’s Degree at Coventry University (2023-2024), under the guidance of faculty and the Module Leader.
+   Completed as part of the Final Data Science Project during my Master’s Degree at Coventry University (2023-2024), under the guidance of faculty and the Module Leader.
 
 > ## [2.Vertical Search Engine](https://github.com/abijithabi3416/Projects/tree/main/Vertical%20Search%20Engine)
 
-  - Summary:
+Summary:
 
-The Vertical Search Engine project developed a specialized search engine similar to Google Scholar, designed to retrieve publications by members of the Centre for Global Learning (CGL) at Coventry University.
+  The Vertical Search Engine project developed a specialized search engine similar to Google Scholar, designed to retrieve publications by members of the Centre for Global Learning (CGL) at Coventry University.
 
-- Objectives:
+Objectives:
 
 Create a search engine focused on CGL publications.<br>
-
 Provide a user-friendly interface for querying and retrieving publications.<br>
-
 Ensure accurate and relevant search results specific to CGL members.<br>
 
-- Methods Used:
+Methods Used:
 
 Web Crawling: Developed a crawler to collect data from relevant web pages, including publication details and author profiles.<br>
 
@@ -103,56 +101,57 @@ Search Interface: Implemented a user interface where users can input queries/key
 
 Relevance Sorting: Displayed search results sorted by relevance, mimicking the functionality of Google Scholar but restricted to CGL publications.<br>
 
-- Outcome:
+Outcome:
 
   The system successfully retrieves and displays publications authored by CGL members, providing a tailored search experience. This specialized search engine enhances accessibility to CGL research outputs and supports academic and research activities within the Centre 
 
 > ## [3.Machine Learning Approaches to Customer Churn Prediction](https://github.com/abijithabi3416/Projects/tree/efa68e5bb27ba2d559c8483b29b4d57243b24257/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
-- Summary:
+
+Summary:
 
 The Customer Churn Prediction project focused on implementing a predictive model to identify customers likely to churn based on various characteristics and usage patterns.
 
-- Objectives:
+Objectives:
 
 Predict customer churn to aid in retention strategies.<br>
 Analyze customer data to identify key indicators of churn.<br>
 Develop and compare different machine learning models for accuracy.<br>
 
-- Methods Used:
+Methods Used:
 
 Exploratory Data Analysis (EDA): Conducted EDA to understand the dataset’s properties and uncover patterns.<br>
 Data Preprocessing: Handled duplicate entries, missing values, renamed columns, detected and treated outliers, and dropped irrelevant columns.<br>
 Model Training: Applied machine learning techniques such as Random Forest Regression, Decision Tree Regression, and Gradient Boost Regression.<br>
 Model Evaluation: Gathered and visualized prediction findings and performance measurements using Python and machine learning libraries.<br>
 
-- Outcome:
-- 
+Outcome:
+
 The project demonstrated effective churn prediction, with models showing strong performance in identifying customers at risk of leaving. The analysis provided actionable insights for the telecom company to improve customer retention strategies.
 
-- Project Context:
+Project Context:
 
 Completed as part of a Machine Learning Assignment during my Master’s Degree at Coventry University (2023-2024).
 
 > ## [4. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
 
-- Summary:
+Summary:
   
   The Beetle Game project was developed to demonstrate a basic understanding of Python programming and control structures.
 
-- Objectives:
+Objectives:
 
 Illustrate fundamental Python programming concepts.<br>
 Implement control structures to manage game logic.<br>
 Create an engaging, interactive game using Python.<br>
 
-- Methods Used:
+Methods Used:
 
 Random Module: Used the randint function from the random module to simulate dice rolls.<br>
 Game Logic: Encapsulated game logic within the dice_game function, managing the collection of beetle parts.<br>
 Control Structures: Utilized loops and conditionals to control game flow, ensuring parts are collected based on dice rolls.<br>
 User Interaction: Implemented a simple user interface to start and play the game.<br>
 
-- Outcome:
-- 
+Outcome:
+ 
 The Beetle Game successfully demonstrated the use of control structures in Python, providing a fun and interactive way to apply basic programming concepts. The game ends when the player collects all the necessary beetle parts, showcasing practical application of loops and conditionals.
  
