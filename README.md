@@ -44,7 +44,8 @@ Python, SQL, R, Tableau, Excel, AWS
 - Built a predictive model to understand factors that influence buying behaviour.
 
 ## PROJECTS
-> ### [1.Road Traffic Accident Analysis](https://github.com/abijithabi3416/Projects/tree/main/Road%20Traffic%20Accident)
+
+> ## [1.Road Traffic Accident Analysis](https://github.com/abijithabi3416/Projects/tree/main/Road%20Traffic%20Accident)
 
   - Summary:  
     
@@ -60,9 +61,13 @@ Python, SQL, R, Tableau, Excel, AWS
   - Methods Used:
 
     Data Collection: Assembled a large historical dataset including variables such as weather conditions, road types, traffic volume, and accident records.<br>
+    
     Data Preprocessing: Cleaned and prepared the data for analysis, addressing issues such as missing values and data normalization.<br>
+    
     Model Training: Employed six different machine learning algorithms, including Decision Trees, Random Forests, and Support Vector Machines.<br>
+    
     Model Evaluation: Assessed the performance of each model using accuracy metrics and other evaluation criteria.<br>
+    
     Prediction: Used the trained models to predict accidents based on historical data inputs.<br>
 
   - Outcome:
@@ -74,29 +79,35 @@ Python, SQL, R, Tableau, Excel, AWS
 
   Completed as part of the Final Data Science Project during my Master’s Degree at Coventry University (2023-2024), under the guidance of faculty and the Module Leader.
 
-> ### [2.Vertical Search Engine](https://github.com/abijithabi3416/Projects/tree/main/Vertical%20Search%20Engine)
-- Summary:
+> ## [2.Vertical Search Engine](https://github.com/abijithabi3416/Projects/tree/main/Vertical%20Search%20Engine)
+
+  - Summary:
 
 The Vertical Search Engine project developed a specialized search engine similar to Google Scholar, designed to retrieve publications by members of the Centre for Global Learning (CGL) at Coventry University.
 
 - Objectives:
 
 Create a search engine focused on CGL publications.<br>
-Provide a user-friendly interface for querying and retrieving publication data.<br>
+
+Provide a user-friendly interface for querying and retrieving publications.<br>
+
 Ensure accurate and relevant search results specific to CGL members.<br>
 
 - Methods Used:
 
 Web Crawling: Developed a crawler to collect data from relevant web pages, including publication details and author profiles.<br>
+
 Data Extraction: Extracted metadata such as authors, publication year, title, and links to publication and author profile pages.<br>
+
 Search Interface: Implemented a user interface where users can input queries/keywords to find relevant publications.<br>
+
 Relevance Sorting: Displayed search results sorted by relevance, mimicking the functionality of Google Scholar but restricted to CGL publications.<br>
 
 - Outcome:
-- 
+
 The system successfully retrieves and displays publications authored by CGL members, providing a tailored search experience. This specialized search engine enhances accessibility to CGL research outputs and supports academic and research activities within the Centre 
 
-> ### [3.Machine Learning Approaches to Customer Churn Prediction](https://github.com/abijithabi3416/Projects/tree/efa68e5bb27ba2d559c8483b29b4d57243b24257/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
+> ## [3.Machine Learning Approaches to Customer Churn Prediction](https://github.com/abijithabi3416/Projects/tree/efa68e5bb27ba2d559c8483b29b4d57243b24257/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
 - Summary:
 
 The Customer Churn Prediction project focused on implementing a predictive model to identify customers likely to churn based on various characteristics and usage patterns.
@@ -122,7 +133,7 @@ The project demonstrated effective churn prediction, with models showing strong 
 
 Completed as part of a Machine Learning Assignment during my Master’s Degree at Coventry University (2023-2024).
 
-> ### [4. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
+> ## [4. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
 
 - Summary:
 The Beetle Game project was developed to demonstrate a basic understanding of Python programming and control structures.
