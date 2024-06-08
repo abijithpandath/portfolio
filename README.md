@@ -45,47 +45,80 @@ Python, SQL, R, Tableau, Excel, AWS
 
 ## PROJECTS
 > ### [1.Road Traffic Accident Analysis](https://github.com/abijithabi3416/Projects/tree/main/Road%20Traffic%20Accident)
-The  analyses  predicts road traffic accidents using a data-driven approach and machine learning models, with the goal of improving our understanding of contributing factors and developing predictive tools for accident prevention.  Assembled a large historic dataset that included information such as weather conditions, road types, traffic volume, and historical accident records.
->
-To analyse this dataset and extract meaningful patterns, I've used 6 different machine learning algorithms including decision trees, random forests, and support vector machines. The investigation reveals complex links between various factors and the occurrence of accidents. Machine learning models predict accidents with high accuracy based on historic data inputs, demonstrating their potential for proactive intervention and traffic management.
->
-To demonstrates the effectiveness of a data-driven approach in road traffic accident analysis and prediction, We can develop systems capable of providing timely warnings and informing traffic management strategies to reduce the frequency and severity of accidents by leveraging the power of machine learning models. The findings advance the field of transportation safety and lay the groundwork for the development of intelligent accident prevention systems. 
->
-This analysis was completed as a part of Final Data Science Project during my Master's Degree at Coventry University(2023-2024) under the guidence of faculties and Module Leader
->
-This analysis includes the following sessions;
-1.  Data Collection
-2.  Data Preprocessing
-3.  Model Training
-4.  Model Evaluation
-5.  Prediction
+Summary:
+The Road Traffic Accident Analysis project aims to predict road traffic accidents through a data-driven approach utilizing machine learning models. The primary objectives are to understand the contributing factors to traffic accidents and to develop predictive tools for accident prevention.
+
+Objectives:
+
+Analyze historical traffic accident data to identify key factors.
+Develop machine learning models to predict accidents.
+Improve traffic management and safety through predictive insights.
+Methods Used:
+
+Data Collection: Assembled a large historical dataset including variables such as weather conditions, road types, traffic volume, and accident records.
+Data Preprocessing: Cleaned and prepared the data for analysis, addressing issues such as missing values and data normalization.
+Model Training: Employed six different machine learning algorithms, including Decision Trees, Random Forests, and Support Vector Machines.
+Model Evaluation: Assessed the performance of each model using accuracy metrics and other evaluation criteria.
+Prediction: Used the trained models to predict accidents based on historical data inputs.
+Outcome:
+The analysis revealed complex relationships between various factors and the occurrence of accidents. The machine learning models achieved high accuracy in predicting accidents, demonstrating their potential for proactive traffic management and accident prevention. This project highlights the effectiveness of a data-driven approach in enhancing transportation safety and provides a foundation for developing intelligent accident prevention systems.
+
+Project Context:
+Completed as part of the Final Data Science Project during my Master’s Degree at Coventry University (2023-2024), under the guidance of faculty and the Module Leader.
 
 > ### [2.Vertical Search Engine](https://github.com/abijithabi3416/Projects/tree/main/Vertical%20Search%20Engine)
-Developed a vertical search engine similar to Google Scholar, but specialised to retrieve publications (i.e., papers, books, etc.) published by a member of the Centre for Global Learning (CGL) at Coventry University.
->
-The  system crawls the relevant web pages and retrieves information about all available publications. For each publication, it extracts available data (such as authors, publication year, and title) and the links to both the publication page and the author’s profile (also called “pureportal” profile) page. 
->
-From the user’s point of view, the system has an interface, where the user can type in their queries/keywords about the resources they want to find. Then,  system will display the results, sorted by relevance, in a similar way Google Scholar does, the search results are restricted to the publications by CGL members only. 
+Summary:
+The Vertical Search Engine project developed a specialized search engine similar to Google Scholar, designed to retrieve publications by members of the Centre for Global Learning (CGL) at Coventry University.
+
+Objectives:
+
+Create a search engine focused on CGL publications.
+Provide a user-friendly interface for querying and retrieving publication data.
+Ensure accurate and relevant search results specific to CGL members.
+Methods Used:
+
+Web Crawling: Developed a crawler to collect data from relevant web pages, including publication details and author profiles.
+Data Extraction: Extracted metadata such as authors, publication year, title, and links to publication and author profile pages.
+Search Interface: Implemented a user interface where users can input queries/keywords to find relevant publications.
+Relevance Sorting: Displayed search results sorted by relevance, mimicking the functionality of Google Scholar but restricted to CGL publications.
+Outcome:
+The system successfully retrieves and displays publications authored by CGL members, providing a tailored search experience. This specialized search engine enhances accessibility to CGL research outputs and supports academic and research activities within the Centre 
 
 > ### [3.Machine Learning Approaches to Customer Churn Prediction](https://github.com/abijithabi3416/Projects/tree/efa68e5bb27ba2d559c8483b29b4d57243b24257/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
-Implemented a predictive model to  calculate the number of customers who churn based on various customer characteristics and usage trends. 
-To analyze the dataset and create an accurate churn prediction model, used machine learning techniques such as Random Forest Regression, Decision Tree Regression and Gradient Boost Regression.  Started  exploratory data analysis to gather insights into the dataset's properties, then we apply various data preprocessing techniques such as handling duplicate entries. Handling missing values, renaming columns, outlier detection and treatment and dropping irrelevant columns. Prediction findings and algorithm performance measurements were gathered and visualized for comparison and debate using the Python programming language and machine learning resources.
->
-Dataset was collected from UCI Machine Learning Repository and this data set consist of randomly collected details of customers from an Iranian Telecom company over 
-a period of 12 months. The dataset contains a variety of consumer information, such as call failure rates, customer complaints, subscription durations, charge amounts, use patterns (such as the number of seconds used, frequency of use, and frequency of SMS), and demographic parameters such as age and tariff plans. The information also includes a 
-churn indicator, which indicates whether a client has churned. Each attribute in the data set is about the telecom servicerelated data describing the frequency, duration,count, and tariff related information. 
->
-This analysis was completed as a part of Machine Learning Assignment during my Master's Degree at Coventry University(2023-2024)
+Summary:
+The Customer Churn Prediction project focused on implementing a predictive model to identify customers likely to churn based on various characteristics and usage patterns.
+
+Objectives:
+
+Predict customer churn to aid in retention strategies.
+Analyze customer data to identify key indicators of churn.
+Develop and compare different machine learning models for accuracy.
+Methods Used:
+
+Exploratory Data Analysis (EDA): Conducted EDA to understand the dataset’s properties and uncover patterns.
+Data Preprocessing: Handled duplicate entries, missing values, renamed columns, detected and treated outliers, and dropped irrelevant columns.
+Model Training: Applied machine learning techniques such as Random Forest Regression, Decision Tree Regression, and Gradient Boost Regression.
+Model Evaluation: Gathered and visualized prediction findings and performance measurements using Python and machine learning libraries.
+Outcome:
+The project demonstrated effective churn prediction, with models showing strong performance in identifying customers at risk of leaving. The analysis provided actionable insights for the telecom company to improve customer retention strategies.
+
+Project Context:
+Completed as part of a Machine Learning Assignment during my Master’s Degree at Coventry University (2023-2024).
 > ### [4. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
-The Beetle game using control structures in python is developed to demonstrate the basic understanding of python programming language.
-This python code includes basics of python programming and implementation of control structures to understand the work flow of code base.
-The Beetle Game is a simple dice game where the player collects parts of a beetle by rolling a die. The game ends when the player has collected all the necessary parts to complete the beetle.
-> 
--  The random module is imported to use the randint function for simulating dice rolls.
--  The dice_game function encapsulates the game logic.
--  collected_parts is a list to keep track of the collected beetle parts.
--  The game runs until 13 parts are collected, which includes 1 body, 1 head, 2 antennas, 2 eyes, 1 mouth, and 6 legs.
--  Simulates rolling a die, generating a random number between 1 and 6.
--  Checks if the roll is 1 and if the body part has not been collected yet. If true, adds the body part.
--  Calls the dice_game function to start the game.
+Summary:
+The Beetle Game project was developed to demonstrate a basic understanding of Python programming and control structures.
+
+Objectives:
+
+Illustrate fundamental Python programming concepts.
+Implement control structures to manage game logic.
+Create an engaging, interactive game using Python.
+Methods Used:
+
+Random Module: Used the randint function from the random module to simulate dice rolls.
+Game Logic: Encapsulated game logic within the dice_game function, managing the collection of beetle parts.
+Control Structures: Utilized loops and conditionals to control game flow, ensuring parts are collected based on dice rolls.
+User Interaction: Implemented a simple user interface to start and play the game.
+Outcome:
+The Beetle Game successfully demonstrated the use of control structures in Python, providing a fun and interactive way to apply basic programming concepts. The game ends when the player collects all the necessary beetle parts, showcasing practical application of loops and conditionals.
  
