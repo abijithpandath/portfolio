@@ -47,18 +47,18 @@ Python, SQL, R, Tableau, Excel, AWS
 
 > ## [1.Road Traffic Accident Analysis](https://github.com/abijithabi3416/Projects/tree/main/Road%20Traffic%20Accident)
 
-  - Summary:  
+Summary:  
     
      The Road Traffic Accident Analysis project aims to predict road traffic accidents through a data-driven approach utilizing machine learning models. The primary objectives are to understand the contributing factors to traffic accidents and to develop predictive 
      tools for accident prevention.
 
-  - Objectives:
+Objectives:
 
     Analyze historical traffic accident data to identify key factors.<br>
     Develop machine learning models to predict accidents.<br> 
     Improve traffic management and safety through predictive insights.<br> 
   
-  - Methods Used:
+Methods Used:
 
     Data Collection: Assembled a large historical dataset including variables such as weather conditions, road types, traffic volume, and accident records.<br>
     
@@ -69,15 +69,15 @@ Python, SQL, R, Tableau, Excel, AWS
     Model Evaluation: Assessed the performance of each model using accuracy metrics and other evaluation criteria.<br>
     
     Prediction: Used the trained models to predict accidents based on historical data inputs.<br>
+    
+ Outcome:
 
-  - Outcome:
+    The analysis revealed complex relationships between various factors and the occurrence of accidents. The machine learning models achieved high accuracy in predicting accidents, demonstrating their potential for proactive traffic management and accident prevention. 
+    This project highlights the effectiveness of a data-driven approach in enhancing transportation safety and provides a foundation for developing intelligent accident prevention systems.
 
-  The analysis revealed complex relationships between various factors and the occurrence of accidents. The machine learning models achieved high accuracy in predicting accidents, demonstrating their potential for proactive traffic management and accident prevention. 
-  This project highlights the effectiveness of a data-driven approach in enhancing transportation safety and provides a foundation for developing intelligent accident prevention systems.
+Project Context:
 
-  - Project Context:
-
-  Completed as part of the Final Data Science Project during my Master’s Degree at Coventry University (2023-2024), under the guidance of faculty and the Module Leader.
+    Completed as part of the Final Data Science Project during my Master’s Degree at Coventry University (2023-2024), under the guidance of faculty and the Module Leader.
 
 > ## [2.Vertical Search Engine](https://github.com/abijithabi3416/Projects/tree/main/Vertical%20Search%20Engine)
 
@@ -105,7 +105,7 @@ Relevance Sorting: Displayed search results sorted by relevance, mimicking the f
 
 - Outcome:
 
-The system successfully retrieves and displays publications authored by CGL members, providing a tailored search experience. This specialized search engine enhances accessibility to CGL research outputs and supports academic and research activities within the Centre 
+  The system successfully retrieves and displays publications authored by CGL members, providing a tailored search experience. This specialized search engine enhances accessibility to CGL research outputs and supports academic and research activities within the Centre 
 
 > ## [3.Machine Learning Approaches to Customer Churn Prediction](https://github.com/abijithabi3416/Projects/tree/efa68e5bb27ba2d559c8483b29b4d57243b24257/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
 - Summary:
@@ -136,7 +136,8 @@ Completed as part of a Machine Learning Assignment during my Master’s Degree a
 > ## [4. Beetle Game Using Control Structures in Python](https://github.com/abijithabi3416/Projects/tree/main/Beetle%20Game)
 
 - Summary:
-The Beetle Game project was developed to demonstrate a basic understanding of Python programming and control structures.
+  
+  The Beetle Game project was developed to demonstrate a basic understanding of Python programming and control structures.
 
 - Objectives:
 
