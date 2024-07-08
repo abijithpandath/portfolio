@@ -4,7 +4,11 @@
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
 
 #### Technical Skills
-Python, SQL, R, Tableau, Excel, AWS
+Programming Languages & Tools: 
+o Excel: Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.
+o Python: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn, TensorFlow, Stats models.
+o SQL: ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management.
+o Tableau: Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.
  
 #### Certifications
 >- **Cisco Networking Academy** -  Data Analytics Essentials 
