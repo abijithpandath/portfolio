@@ -5,10 +5,10 @@
 
 #### Technical Skills
 Programming Languages & Tools: 
-o Excel: Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.
-o Python: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn, TensorFlow, Stats models.
-o SQL: ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management.
-o Tableau: Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.
+o Excel: Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.<br>
+o Python: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn, TensorFlow, Stats models.<br>
+o SQL: ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management.<br>
+o Tableau: Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.<br>
  
 #### Certifications
 >- **Cisco Networking Academy** -  Data Analytics Essentials 
