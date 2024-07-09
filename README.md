@@ -28,22 +28,8 @@ Data Visualization, Dashboard Design, Mapping, Performance optimization, Storyte
 - | M.S Data Science (_2023-2024_)|                                     |||Coventry University, United Kingdom|
 - | B Tech Computer Science and Engineering (_2016-2020_)|            |APJ Abdul Kalam Kerala Technological University, India|
 
-## WORK EXPERIENCE
-**Tata Consultancy Services**
->**Assistant System Engineer Trainee (Jan 2022 – Jan 2023)**
-- Worked under Customer Resource Management team in collecting, cleaning, and manipulating customer data, Improved data quality by 85%, enabling the creation of insightful data visualizations that identified 7 actionable trends for business development. 
-- Collaborated closely with Product Owner, Business Analyst, and Development Team, facilitating a 40% increase in clarity regarding commercial market and user requirements.
-- Implemented various Machine Learning Algorithms including regression and random forest to find customer satisfactory attributes and customer churn attributes 
-- Performed advanced statistical analysis on customer datasets exceeding 35000 records, identified 7 potential new product opportunities based on data insights. Effectively communicated these findings to stakeholders, influencing product roadmap decisions.
-- Continuously learned both development tools and technologies used in the project as well as other development tools and technologies required for future development
 
-**Tech Mahindra Pvt Ltd**  
->**Associate Technical Support (Jan 2021 - Dec 2021)**
-- Delivered exceptional technical support to clients, resolving 45% of software and hardware issues within the first contact, exceeding client expectations. Utilized a multi-channel approach (phone, email, chat) to ensure 100% customer satisfaction
-- Acted as a trusted advisor, proactively educating clients on best practices for system maintenance, software updates, and security protocols. This resulted in a 30% reduction in support tickets related to preventable issues.
-- Established a comprehensive knowledge base by documenting support interactions, including issue descriptions, troubleshooting steps, and resolutions. This facilitated knowledge sharing within the team, leading to improved first-call resolution rates and contributing up to a 50% customer retention rate.
-
-## ADDITIONAL EXPERIENCE
+## VIRTUAL INTERNSHIP EXPERIENCE
 >**JPMorgan Chase & Co Agile Job Simulation on Forage**
 - Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required. 
 - Ran the Scrum team’s daily standup to masterfully plan the day and energize the team members. 
